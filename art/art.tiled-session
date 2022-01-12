@@ -1,0 +1,47 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "E:/Projects/gow/game/modules/rome/animations/units.json": {
+            "scale": 5.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 19.81818181818182,
+                "y": 41.54545454545455
+            }
+        },
+        "E:/Projects/gow/game/modules/rome/animations/units.json#units": {
+            "scaleInDock": 1
+        },
+        "E:/Projects/gow/gow-mods/thefirst/levels/level1.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1950,
+                "y": 1387.878787878788
+            }
+        }
+    },
+    "last.imagePath": "E:/Projects/bitwise/art/roguelike-modern-city-pack/Spritesheet",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+    ],
+    "project": "art.tiled-project",
+    "recentFiles": [
+        "E:/Projects/gow/gow-mods/thefirst/levels/art.tmx",
+        "E:/Projects/gow/gow-mods/thefirst/levels/level1.json",
+        "E:/Projects/gow/game/modules/rome/animations/units.json"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.spacing": 1,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
